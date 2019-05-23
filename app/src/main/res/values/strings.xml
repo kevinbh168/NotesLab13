@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notas Tecsup</string>
+    <string name="login_ingresar">Ingresar</string>
+    <string name="login_registrar">Registrar</string>
+    <string name="register_registrar">Registrar</string>
+    <string name="register_ingrese_su_nombre_completo">Ingrese su nombre completo</string>
+    <string name="register_ingrese_su_email">Ingrese su correo</string>
+    <string name="register_ingrese_su_password">Ingrese su contraseña</string>
+    <string name="ingrese_su_usuario">Ingrese su usuario</string>
+    <string name="example_comment">La historia del Perú es la historia del territorio del actual Perú, que abarca desde los restos más antiguos de ocupación humana, hasta nuestros días. Los primeros grupos humanos llegaron hacia fines de la glaciación wisconsiense (XI milenio a. C.) como cazadores-recolectores (periodo lítico).</string>
+    <string name="title_home">Bienvenido Kevin</string>
+    <string name="register_tile">Registro de Usuario</string>
+    <string name="ingrese_titulo_del_comentario">Titulo del comentario</string>
+    <string name="ingrese_su_comentario">Ingrese su comentario</string>
+</resources>
